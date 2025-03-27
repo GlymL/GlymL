@@ -22,7 +22,7 @@ I'm a student interested in AI, video game development and, at a lesser extent, 
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=GlymL&theme=dracula&include_all_commits=false&count_private=true&hide_title=true" alt="Commit Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlymL&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlymL&theme=dracula&count_private=true&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
 </p>
 
 
