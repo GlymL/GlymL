@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm a student interested in AI, video game development and, at a lesser extent, everything about computers, hardware and software development.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GlymL&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GlymL&theme=dracula&include_all_commits=false&count_private=true&hide_title=true" alt="Commit Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlymL&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
 </p>
 
