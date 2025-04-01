@@ -22,7 +22,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glyml&layout=donut)](https://github.com/glyml/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glyml&layout=donut&theme=dark)
 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ALK222&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
