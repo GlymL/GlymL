@@ -18,6 +18,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true" />
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glyml&layout=donut&theme=synthwave)
