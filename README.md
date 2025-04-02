@@ -1,26 +1,23 @@
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning C#, C++, Java, Lua
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
-  
 <h1 align="center">Hi there, I'm Laura 👋</h1>
 
-<!-- future portfolio here -->
+
+- 🔭 I’m currently working on learning and trying to make some game modifications
+- 🌱 I’m currently learning C#, C++, Java, Lua
+- 👯 I’m looking to collaborate on any programming related work
+- 🤔 I’m looking for help with Lua and Unity games modifications
+- 💬 Ask me about everything you want to :)
+- 📫 How to reach me: By my university mail <b>rdolera@ucm.es</b>
+- 😄 Pronouns: She/Her
+
+
+
+- Those are my github stats (mostly university contributions): 
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true" />
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glyml&layout=donut&theme=synthwave)
