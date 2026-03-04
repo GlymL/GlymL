@@ -11,18 +11,7 @@
 
 
 
-- Those are my github stats (mostly university contributions): 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=glyml&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glyml&layout=donut&theme=synthwave)
 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ALK222&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
