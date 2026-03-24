@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Laura 👋</h1>
+<h1 align="center">Hi there, I'm Laura // Rachel 👋</h1>
 
 
 - 🔭 I’m currently working on learning and trying to make some game modifications
@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Lua and Unity games modifications
 - 💬 Ask me about everything you want to :)
 - 📫 How to reach me: By my university mail <b>rdolera@ucm.es</b>
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her // They/Them
 
 
 
